@@ -1,5 +1,7 @@
 # ClubHouse
 
+Due to most having stay-at-home-orders because of COVID-19, Clubhouse is a social media application that allows users to choose between either playing one of the selected games or interact with their friends and family to stay in touch.
+
 ## Features
 
 ### Sign up or Log in
